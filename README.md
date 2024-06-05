@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Isha Nanda</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+, I'm Isha Nanda</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Isha-Nanda08/Isha-Nanda08/blob/main/sideImage.gif">
 
