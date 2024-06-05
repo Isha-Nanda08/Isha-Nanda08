@@ -22,6 +22,10 @@
 # 📊 Github stats:
 <p><img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=Isha-Nanda08&show_icons=true&locale=en" alt="Isha-Nanda08" />
 <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isha-Nanda08&show_icons=true&locale=en&layout=compact" alt="Isha-Nanda08" />
+<br>
+  
+<img align="left" height="150" src="https://streak-stats.demolab.com/?user=Isha-Nanda08" alt="Isha-Nanda08"/>
+
   </p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isha-nanda08&label=Profile%20views&color=0e75b6&style=flat" alt="isha-nanda08" /> </p>
