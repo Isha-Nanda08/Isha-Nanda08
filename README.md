@@ -5,9 +5,9 @@
 
 
 ## ⚡ About Me:
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Next and langchain**
 - 💬 Ask me about **web dev**
-- 📫 How to reach me **ishananda64@gmail.com**
+- 📫 How to reach me **ishananda.work@gmail.com**
 - ⚡ Fun fact **I smile a lot**
 
 ## 🌐 Socials:
